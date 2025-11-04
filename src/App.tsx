@@ -7,7 +7,7 @@ function App() {
         SwapLoot
       </h1>
       <p className="text-xl md:text-2xl text-gray-300 mb-2">
-        Own your loot. Sell it forever.
+        Own your loot. Sell it forever. MY G!
       </p>
       <p className="text-lg text-gray-500 mb-10">
         The first true cross-game skin marketplace on blockchain.
