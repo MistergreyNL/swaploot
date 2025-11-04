@@ -1,6 +1,3 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -16,7 +13,7 @@ function App() {
         The first true cross-game skin marketplace on blockchain.
       </p>
       <button className="px-8 py-4 bg-purple-600 hover:bg-purple-700 text-white font-bold rounded-full text-lg shadow-lg hover:shadow-purple-500/50 transition transform hover:scale-105">
-        Connect Wallet → Join Waitlist
+        Connect Wallet to Join Waitlist
       </button>
       <p className="mt-12 text-sm text-gray-600">
         Powered by Solana • No fees • Real ownership
